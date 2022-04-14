@@ -1,3 +1,5 @@
+# 6A/19090019/Adi Sangjaya
+# 6A/19090121/Moh Farid Nurul Ikhsani
 from flask import Flask, jsonify,request,flash,redirect
 from itsdangerous import json
 from werkzeug.utils import secure_filename
